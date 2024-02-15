@@ -3,7 +3,7 @@
 ## Tarefas
 
 - [ ] Header
-- [] Apresentação
+- [ ] Apresentação
 - [] Projeos
 - [] Conhecimentos 
 - [] Orçamento
