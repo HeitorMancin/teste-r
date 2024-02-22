@@ -4,6 +4,6 @@
 
 - [ ] Header
 - [ ] Apresentação
-- [] Projeos
-- [] Conhecimentos 
-- [] Orçamento
+- [ ] Projeos
+- [ ] Conhecimentos 
+- [ ] Orçamento
