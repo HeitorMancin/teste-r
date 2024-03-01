@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #A8C7BB;
+    background-image: url(../images/cadillac-v-lmdh-race-car-gold-004-scaled-1.webp);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: block;
+    z-index: -10;
+}
+h1{
+    font-family: 'Berlin Sans FB', sans-serif;
+    font-weight: 900;
+    font-size: 72px;
+    color:#364156;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: #A8C7BB;
+}
+p{
+    color: azure;
+}
+ol{
+    color: azure;
+}
+ul{
+    color: azure;
+}
